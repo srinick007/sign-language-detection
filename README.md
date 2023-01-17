@@ -2,5 +2,9 @@
 sign language detection using LSTM
 
 
-https://user-images.githubusercontent.com/97779349/212835718-8f53d2cc-2f9f-41b6-8b2f-6f669701ae16.mp4
+
+
+
+
+https://user-images.githubusercontent.com/97779349/212838044-22452043-8aa8-4697-8366-a6a4eaf1cbf0.mp4
 
